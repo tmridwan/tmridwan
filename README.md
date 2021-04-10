@@ -1,6 +1,6 @@
 
 
-v![Poster](poster.svg 'Poster')
+![Poster](poster.svg 'Poster')
 
 # 👋 Hi there, I'm Taiob Md. *Ridwan*.
 
