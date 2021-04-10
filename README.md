@@ -2,7 +2,7 @@
 
 ![Poster](poster.svg 'Poster')
 
-# 👋 Hi there, I'm Taiob Md. *Ridwan*.
+# 👋 Hi there, I'm Taiob Md. **Ridwan**.
 
 🔭 I’m currently working on JavaScript.
 
